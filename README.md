@@ -27,12 +27,11 @@ I'm a developer and competitive programmer with expertise in:
 
 - **Tools**:
   <a href="#" title="Git"><img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="VS Code"><img src="https://img.icons8.com/color/48/000000/visual-studio-code.png" alt="VS Code" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="VS Code"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s" alt="VS Code" style="width: 48px; height: 48px;"/></a>
   <a href="#" title="Notepad++"><img src="https://img.icons8.com/ios-filled/50/000000/notepad.png" alt="Notepad++" style="width: 48px; height: 48px;"/></a>
 
 - **Concepts**:
   <a href="#" title="Cloud Computing"><img src="https://img.icons8.com/ios-filled/50/000000/cloud.png" alt="Cloud Computing" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="Microservices"><img src="https://img.icons8.com/ios-filled/50/000000/architecture.png" alt="Microservices" style="width: 48px; height: 48px;"/></a>
   <a href="#" title="Data Structures and Algorithms"><img src="https://img.icons8.com/ios-filled/50/000000/data-configuration.png" alt="Data Structures and Algorithms" style="width: 48px; height: 48px;"/></a>
   <a href="#" title="Machine Learning"><img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" alt="Machine Learning" style="width: 48px; height: 48px;"/></a>
 
