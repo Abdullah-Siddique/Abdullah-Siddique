@@ -110,9 +110,9 @@ I’m always learning new technologies and enhancing my skills. Here are some of
    - ![Python (Basic)](https://i.ibb.co/M1x7nYm/457645826-523531896717399-2730785214774458873-n.png)
    
 <div align="center">
-## 🌍 Connect With Me
+<h1> 🌍 Connect With Me</h1>
 
-Let’s stay in touch! Feel free to reach out:
+<h2>Let’s stay in touch! Feel free to reach out:</h2>
 
 
   <a href="mailto:siddiqueabdullah581@gmail.com" title="Email"><img src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_640.png" alt="Email" style="width: 40px; height: 40px; margin: 0 15px;"/></a>
