@@ -11,41 +11,30 @@ I'm a developer and competitive programmer with expertise in:
 - **Game Development**: Creating interactive and engaging games with HTML, CSS, and JavaScript.
 - **Algorithm Design**: Solving complex problems and optimizing algorithms.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Profile</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
-<body>
-    <h2>🔧 Skills</h2>
-    <ul>
-        <li><strong>Languages:</strong></li>
-        <li>Python <i class="fab fa-python"></i></li>
-        <li>JavaScript <i class="fab fa-js-square"></i></li>
-        <li>C++ <i class="fas fa-cogs"></i></li>
-        <li>HTML/CSS <i class="fab fa-html5"></i> <i class="fab fa-css3-alt"></i></li>
+## 🔧 Skills
 
-        <li><strong>Frameworks:</strong></li>
-        <li>Django <i class="fab fa-django"></i></li>
-        <li>Flask <i class="fas fa-flask"></i></li>
-        <li>Node.js <i class="fab fa-node-js"></i></li>
+- **Languages**:
+  - Python 🐍
+  - JavaScript 🌟
+  - C++ ⚙️
+  - HTML/CSS 🌐
 
-        <li><strong>Tools:</strong></li>
-        <li>Git <i class="fab fa-git"></i></li>
-        <li>VS Code <i class="fab fa-visual-studio-code"></i></li>
-        <li>Notepad++ <i class="fas fa-file-code"></i></li>
+- **Frameworks**:
+  - Django 🏗️
+  - Flask 🔥
+  - Node.js 🟢
 
-        <li><strong>Concepts:</strong></li>
-        <li>Cloud Computing <i class="fas fa-cloud"></i></li>
-        <li>Microservices <i class="fas fa-building"></i></li>
-        <li>Data Structures and Algorithms <i class="fas fa-database"></i></li>
-        <li>Machine Learning <i class="fas fa-robot"></i></li>
-    </ul>
-</body>
-</html>
+- **Tools**:
+  - Git 🦸‍♂️
+  - VS Code 🖥️
+  - Notepad++ 📝
+
+- **Concepts**:
+  - Cloud Computing ☁️
+  - Microservices 🏢
+  - Data Structures and Algorithms 📚
+  - Machine Learning 🤖
+
 
 ## 🚀 Featured Projects
 
