@@ -14,26 +14,26 @@ I'm a developer and competitive programmer with expertise in:
 ## 🔧 Skills
 
 - **Languages**:
-  <a href="#" title="Python"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="C++"><img src="https://img.icons8.com/color/48/000000/c-plus-plus.png" alt="C++" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="HTML"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="CSS"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="Python"><img src="https://img.icons8.com/color/32/000000/python.png" alt="Python" style="width: 32px; height: 32px;"/></a>
+  <a href="#" title="JavaScript"><img src="https://img.icons8.com/color/32/000000/javascript.png" alt="JavaScript" style="width: 32px; height: 32px;"/></a>
+  <a href="#" title="C++"><img src="https://img.icons8.com/color/32/000000/c-plus-plus.png" alt="C++" style="width: 32px; height: 32px;"/></a>
+  <a href="#" title="HTML"><img src="https://img.icons8.com/color/32/000000/html-5.png" alt="HTML" style="width: 32px; height: 32px;"/></a>
+  <a href="#" title="CSS"><img src="https://img.icons8.com/color/32/000000/css3.png" alt="CSS" style="width: 32px; height: 32px;"/></a>
 
 - **Frameworks**:
-  <a href="#" title="Django"><img src="https://img.icons8.com/ios-filled/50/000000/django.png" alt="Django" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="Flask"><img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="Node.js"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="Django"><img src="https://img.icons8.com/ios-filled/32/000000/django.png" alt="Django" style="width: 32px; height: 32px;"/></a>
+  <a href="#" title="Flask"><img src="https://img.icons8.com/ios-filled/32/000000/flask.png" alt="Flask" style="width: 32px; height: 32px;"/></a>
+  <a href="#" title="Node.js"><img src="https://img.icons8.com/color/32/000000/nodejs.png" alt="Node.js" style="width: 32px; height: 32px;"/></a>
 
 - **Tools**:
-  <a href="#" title="Git"><img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="VS Code"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s" alt="VS Code" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="Notepad++"><img src="https://img.icons8.com/ios-filled/50/000000/notepad.png" alt="Notepad++" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="Git"><img src="https://img.icons8.com/ios-filled/32/000000/git.png" alt="Git" style="width: 32px; height: 32px;"/></a>
+  <a href="#" title="VS Code"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s" alt="VS Code" style="width: 32px; height: 32px;"/></a>
+  <a href="#" title="Notepad++"><img src="https://img.icons8.com/ios-filled/32/000000/notepad.png" alt="Notepad++" style="width: 32px; height: 32px;"/></a>
 
 - **Concepts**:
-  <a href="#" title="Cloud Computing"><img src="https://img.icons8.com/ios-filled/50/000000/cloud.png" alt="Cloud Computing" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="Data Structures and Algorithms"><img src="https://img.icons8.com/ios-filled/50/000000/data-configuration.png" alt="Data Structures and Algorithms" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="Machine Learning"><img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" alt="Machine Learning" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="Cloud Computing"><img src="https://img.icons8.com/ios-filled/32/000000/cloud.png" alt="Cloud Computing" style="width: 32px; height: 32px;"/></a>
+  <a href="#" title="Data Structures and Algorithms"><img src="https://img.icons8.com/ios-filled/32/000000/data-configuration.png" alt="Data Structures and Algorithms" style="width: 32px; height: 32px;"/></a>
+  <a href="#" title="Machine Learning"><img src="https://img.icons8.com/ios-filled/32/000000/artificial-intelligence.png" alt="Machine Learning" style="width: 32px; height: 32px;"/></a>
 
 
 ## 🚀 Featured Projects
