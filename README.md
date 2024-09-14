@@ -115,11 +115,11 @@ I’m always learning new technologies and enhancing my skills. Here are some of
 Let’s stay in touch! Feel free to reach out:
 
 <div align="center">
-  <a href="mailto:siddiqueabdullah581@gmail.com" title="Email"><img src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_640.png" alt="Email" style="width: 32px; height: 32px; margin: 0 15px;"/></a>
-  <a href="https://www.linkedin.com/in/abdullah-siddique-633bbb249/" title="LinkedIn"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" style="width: 32px; height: 32px; margin: 0 15px;"/></a>
-  <a href="https://x.com/s2009_abdullah" title="Twitter"><img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter" style="width: 32px; height: 32px; margin: 0 15px;"/></a>
-  <a href="https://github.com/Abdullah-Siddique" title="GitHub"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" style="width: 32px; height: 32px; margin: 0 15px;"/></a>
-  <a href="https://www.facebook.com/AbdullahRezaSiddique" title="Facebook"><img src="https://cdn.jim-nielsen.com/ios/512/facebook-2019-05-21.png?rf=1024" alt="Facebook" style="width: 32px; height: 32px; margin: 0 15px;"/></a>
+  <a href="mailto:siddiqueabdullah581@gmail.com" title="Email"><img src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_640.png" alt="Email" style="width: 40px; height: 40px; margin: 0 15px;"/></a>
+  <a href="https://www.linkedin.com/in/abdullah-siddique-633bbb249/" title="LinkedIn"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px; margin: 0 15px;"/></a>
+  <a href="https://x.com/s2009_abdullah" title="Twitter"><img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter" style="width: 40px; height: 40px; margin: 0 15px;"/></a>
+  <a href="https://github.com/Abdullah-Siddique" title="GitHub"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" style="width: 40px; height: 40px; margin: 0 15px;"/></a>
+  <a href="https://www.facebook.com/AbdullahRezaSiddique" title="Facebook"><img src="https://cdn.jim-nielsen.com/ios/512/facebook-2019-05-21.png?rf=1024" alt="Facebook" style="width: 40px; height: 40px; margin: 0 15px;"/></a>
 </div>
 
 
