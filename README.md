@@ -1,6 +1,6 @@
 # 🌟 Welcome to Abdullah Siddique's GitHub Profile! 🌟
 
-![](https://cdn.leonardo.ai/users/12adf5be-8e70-4be7-82b2-f6a279f24f70/generations/fe26a249-9dcb-4f34-82de-0011265168da/Leonardo_Phoenix_A_young_adult_hacker_with_a_determined_expres_0.jpg)
+![](https://cdn.leonardo.ai/users/12adf5be-8e70-4be7-82b2-f6a279f24f70/generations/b80fd374-0a32-4b85-bb79-9d9e0d1a0d4a/Leonardo_Phoenix_A_lone_hacker_shrouded_in_mystery_sits_in_a_d_0.jpg)
 
 Hi there! 👋 I'm Abdullah Siddique, a passionate web developer and competitive programmer with a love for coding and creating innovative solutions. This is my GitHub profile where you can explore my projects, contributions, and learn more about what I do.
 
