@@ -109,12 +109,12 @@ I’m always learning new technologies and enhancing my skills. Here are some of
 6. **HackerRank Python (Basic)**
    - ![Python (Basic)](https://i.ibb.co/M1x7nYm/457645826-523531896717399-2730785214774458873-n.png)
    
-
+<div align="center">
 ## 🌍 Connect With Me
 
 Let’s stay in touch! Feel free to reach out:
 
-<div align="center">
+
   <a href="mailto:siddiqueabdullah581@gmail.com" title="Email"><img src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_640.png" alt="Email" style="width: 40px; height: 40px; margin: 0 15px;"/></a>
   <a href="https://www.linkedin.com/in/abdullah-siddique-633bbb249/" title="LinkedIn"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px; margin: 0 15px;"/></a>
   <a href="https://x.com/s2009_abdullah" title="Twitter"><img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter" style="width: 40px; height: 40px; margin: 0 15px;"/></a>
