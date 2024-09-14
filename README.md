@@ -14,26 +14,27 @@ I'm a developer and competitive programmer with expertise in:
 ## 🔧 Skills
 
 - **Languages**:
-  - Python ![Python](https://img.icons8.com/color/48/000000/python.png)
-  - JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-  - C++ ![C++](https://img.icons8.com/color/48/000000/c-plus-plus.png)
-  - HTML/CSS ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+  <a href="#" title="Python"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="C++"><img src="https://img.icons8.com/color/48/000000/c-plus-plus.png" alt="C++" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="HTML/CSS"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="HTML/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="width: 48px; height: 48px;"/></a>
 
 - **Frameworks**:
-  - Django ![Django](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-django-web-development-flat-flat-juicy-fish.png)
-  - Flask ![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png)
-  - Node.js ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+  <a href="#" title="Django"><img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-django-web-development-flat-flat-juicy-fish.png" alt="Django" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="Flask"><img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="Node.js"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="width: 48px; height: 48px;"/></a>
 
 - **Tools**:
-  - Git ![Git](https://img.icons8.com/ios-filled/50/000000/git.png)
-  - VS Code ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code.png)
-  - Notepad++ ![Notepad++](https://img.icons8.com/ios-filled/50/000000/notepad.png)
+  <a href="#" title="Git"><img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="VS Code"><img src="https://img.icons8.com/color/48/000000/visual-studio-code.png" alt="VS Code" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="Notepad++"><img src="https://img.icons8.com/ios-filled/50/000000/notepad.png" alt="Notepad++" style="width: 48px; height: 48px;"/></a>
 
 - **Concepts**:
-  - Cloud Computing ![Cloud Computing](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-cloud-computing-web-development-flat-flat-juicy-fish.png)
-  - Microservices ![Microservices](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-microservices-web-development-flat-flat-juicy-fish.png)
-  - Data Structures and Algorithms ![Data Structures](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-data-structures-web-development-flat-flat-juicy-fish.png)
-  - Machine Learning ![Machine Learning](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-machine-learning-web-development-flat-flat-juicy-fish.png)
+  <a href="#" title="Cloud Computing"><img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-cloud-computing-web-development-flat-flat-juicy-fish.png" alt="Cloud Computing" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="Microservices"><img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-microservices-web-development-flat-flat-juicy-fish.png" alt="Microservices" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="Data Structures and Algorithms"><img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-data-structures-web-development-flat-flat-juicy-fish.png" alt="Data Structures and Algorithms" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="Machine Learning"><img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-machine-learning-web-development-flat-flat-juicy-fish.png" alt="Machine Learning" style="width: 48px; height: 48px;"/></a>
 
 ## 🚀 Featured Projects
 
@@ -44,19 +45,19 @@ A comprehensive health checkup application built with Django. Features include B
 An engaging Tic Tac Toe game developed using HTML, CSS, and JavaScript. Challenge yourself to win!
 
 ### [**Search**](https://abdullah-siddique.github.io/Search/)
-Search in a cloned google. 
+Search in a cloned Google.
 
 ### [**Smart To-Do List**](https://abdullah-siddique.github.io/todo/)
 An efficient to-do list application with time management features, built with modern web technologies.
 
 ### [**Algorithms**](https://github.com/Abdullah-Siddique/Pseudocodes)
-Be introduced with some prominent algorithms in pseudocodes.
+Be introduced to some prominent algorithms in pseudocodes.
 
 ### [**C++**](https://github.com/Abdullah-Siddique/C_Plus_Plus)
-Introduction to c++ from beginner to intermediate.
+Introduction to C++ from beginner to intermediate.
 
 ### [**Fitness Tracker**](https://github.com/Abdullah-Siddique/FitnessTracker)
-Track your fitness in terminal.
+Track your fitness in the terminal.
 
 ### [**Practice Python**](https://github.com/Abdullah-Siddique/Python)
 Practice Python a little bit.
@@ -104,12 +105,11 @@ I’m always learning new technologies and enhancing my skills. Here are some of
 
 Let’s stay in touch! Feel free to reach out:
 
-- **Email**: [![Email](https://img.icons8.com/ios-filled/50/000000/guest-male.png)](mailto:siddiqueabdullah581@gmail.com)
-- **LinkedIn**: [![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/abdullah-siddique-633bbb249/)
-- **Twitter**: [![Twitter](https://img.icons8.com/ios-filled/50/000000/twitter.png)](https://x.com/s2009_abdullah)
-- **GitHub**: [![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/Abdullah-Siddique)
+- **Email**: <a href="mailto:siddiqueabdullah581@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/guest-male.png" alt="Email" style="width: 24px; height: 24px;"/></a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/abdullah-siddique-633bbb249/"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" style="width: 24px; height: 24px;"/></a>
+- **Twitter**: <a href="https://x.com/s2009_abdullah"><img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter" style="width: 24px; height: 24px;"/></a>
+- **GitHub**: <a href="https://github.com/Abdullah-Siddique"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" style="width: 24px; height: 24px;"/></a>
 
 ---
 
 Thank you for visiting my GitHub profile! 🚀 I’m excited to connect with fellow developers and collaborate on interesting projects. Let's code the future together!
-
