@@ -17,11 +17,11 @@ I'm a developer and competitive programmer with expertise in:
   <a href="#" title="Python"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="width: 48px; height: 48px;"/></a>
   <a href="#" title="JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="width: 48px; height: 48px;"/></a>
   <a href="#" title="C++"><img src="https://img.icons8.com/color/48/000000/c-plus-plus.png" alt="C++" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="HTML/CSS"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="HTML/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="HTML"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="CSS"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="width: 48px; height: 48px;"/></a>
 
 - **Frameworks**:
-  <a href="#" title="Django"><img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-django-web-development-flat-flat-juicy-fish.png" alt="Django" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="Django"><img src="https://img.icons8.com/ios-filled/50/000000/django.png" alt="Django" style="width: 48px; height: 48px;"/></a>
   <a href="#" title="Flask"><img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" style="width: 48px; height: 48px;"/></a>
   <a href="#" title="Node.js"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="width: 48px; height: 48px;"/></a>
 
@@ -31,10 +31,11 @@ I'm a developer and competitive programmer with expertise in:
   <a href="#" title="Notepad++"><img src="https://img.icons8.com/ios-filled/50/000000/notepad.png" alt="Notepad++" style="width: 48px; height: 48px;"/></a>
 
 - **Concepts**:
-  <a href="#" title="Cloud Computing"><img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-cloud-computing-web-development-flat-flat-juicy-fish.png" alt="Cloud Computing" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="Microservices"><img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-microservices-web-development-flat-flat-juicy-fish.png" alt="Microservices" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="Data Structures and Algorithms"><img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-data-structures-web-development-flat-flat-juicy-fish.png" alt="Data Structures and Algorithms" style="width: 48px; height: 48px;"/></a>
-  <a href="#" title="Machine Learning"><img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-machine-learning-web-development-flat-flat-juicy-fish.png" alt="Machine Learning" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="Cloud Computing"><img src="https://img.icons8.com/ios-filled/50/000000/cloud.png" alt="Cloud Computing" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="Microservices"><img src="https://img.icons8.com/ios-filled/50/000000/architecture.png" alt="Microservices" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="Data Structures and Algorithms"><img src="https://img.icons8.com/ios-filled/50/000000/data-configuration.png" alt="Data Structures and Algorithms" style="width: 48px; height: 48px;"/></a>
+  <a href="#" title="Machine Learning"><img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" alt="Machine Learning" style="width: 48px; height: 48px;"/></a>
+
 
 ## 🚀 Featured Projects
 
