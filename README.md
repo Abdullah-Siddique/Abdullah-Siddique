@@ -19,7 +19,7 @@ I'm a developer and competitive programmer with expertise in:
   <br/>
   <a href="#" title="Python"><img src="https://img.icons8.com/color/60/000000/python.png" alt="Python" style="width: 60px; height: 60px;"/></a>
   <a href="#" title="JavaScript"><img src="https://img.icons8.com/color/60/000000/javascript.png" alt="JavaScript" style="width: 60px; height: 60px;"/></a>
-  <a href="#" title="C++"><img src="https://img.icons8.com/color/60/000000/c-plus-plus.png" alt="C++" style="width: 60px; height: 60px;"/></a>
+  <a href="#" title="C++"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" style="width: 60px; height: 60px;"/></a>
   <a href="#" title="HTML"><img src="https://img.icons8.com/color/60/000000/html-5.png" alt="HTML" style="width: 60px; height: 60px;"/></a>
   <a href="#" title="CSS"><img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS" style="width: 60px; height: 60px;"/></a>
 
