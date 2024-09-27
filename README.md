@@ -28,6 +28,7 @@ I'm a developer and competitive programmer with expertise in:
   <a href="#" title="Django"><img src="https://img.icons8.com/ios-filled/60/000000/django.png" alt="Django" style="width: 60px; height: 60px;"/></a>
   <a href="#" title="Flask"><img src="https://img.icons8.com/ios-filled/60/000000/flask.png" alt="Flask" style="width: 60px; height: 60px;"/></a>
   <a href="#" title="Node.js"><img src="https://img.icons8.com/color/60/000000/nodejs.png" alt="Node.js" style="width: 60px; height: 60px;"/></a>
+  <a href="#" title="React"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="React" style="width: 60px; height: 60px;"/></a>
 
 - **Tools**:
   <br/>
