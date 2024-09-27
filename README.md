@@ -47,6 +47,9 @@ I'm a developer and competitive programmer with expertise in:
 
 ## 🚀 Featured Projects
 
+### [**Virtual Graph**](https://abdullah-siddique.github.io/virtual-graph/)
+Virtual Graph is a web application designed to visualize and interact with graph structures. It allows users to create, modify, and explore graphs in a user-friendly environment. This project is built using React and provides an intuitive interface for managing graphs.
+
 ### [**Health Checkup**](https://abdullah-siddique.github.io/Alt/)
 A comprehensive health checkup application built with Django. Features include BMI calculation, calorie tracking, and user profile management.
 
