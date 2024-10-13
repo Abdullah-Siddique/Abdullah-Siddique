@@ -13,36 +13,59 @@ I'm a developer and competitive programmer with expertise in:
 
 ## 🔧 Skills
 
+## 🔧 Skills
+
 <div align="center">
 
 - **Languages**:
   <br/>
-  <a href="#" title="Python"><img src="https://img.icons8.com/color/60/000000/python.png" alt="Python" style="width: 60px; height: 60px;"/></a>
-  <a href="#" title="JavaScript"><img src="https://img.icons8.com/color/60/000000/javascript.png" alt="JavaScript" style="width: 60px; height: 60px;"/></a>
-  <a href="#" title="C++"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" style="width: 60px; height: 60px;"/></a>
-  <a href="#" title="HTML"><img src="https://img.icons8.com/color/60/000000/html-5.png" alt="HTML" style="width: 60px; height: 60px;"/></a>
-  <a href="#" title="CSS"><img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS" style="width: 60px; height: 60px;"/></a>
+  <a href="#" title="Python"><img src="https://img.icons8.com/color/60/000000/python.png" alt="Python" class="rotate-icon"/></a>
+  <a href="#" title="JavaScript"><img src="https://img.icons8.com/color/60/000000/javascript.png" alt="JavaScript" class="rotate-icon"/></a>
+  <a href="#" title="C++"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" class="rotate-icon"/></a>
+  <a href="#" title="HTML"><img src="https://img.icons8.com/color/60/000000/html-5.png" alt="HTML" class="rotate-icon"/></a>
+  <a href="#" title="CSS"><img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS" class="rotate-icon"/></a>
 
 - **Frameworks**:
   <br/>
-  <a href="#" title="Django"><img src="https://img.icons8.com/ios-filled/60/000000/django.png" alt="Django" style="width: 60px; height: 60px;"/></a>
-  <a href="#" title="Flask"><img src="https://img.icons8.com/ios-filled/60/000000/flask.png" alt="Flask" style="width: 60px; height: 60px;"/></a>
-  <a href="#" title="Node.js"><img src="https://img.icons8.com/color/60/000000/nodejs.png" alt="Node.js" style="width: 60px; height: 60px;"/></a>
-  <a href="#" title="React"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="React" style="width: 60px; height: 60px;"/></a>
+  <a href="#" title="Django"><img src="https://img.icons8.com/ios-filled/60/000000/django.png" alt="Django" class="rotate-icon"/></a>
+  <a href="#" title="Flask"><img src="https://img.icons8.com/ios-filled/60/000000/flask.png" alt="Flask" class="rotate-icon"/></a>
+  <a href="#" title="Node.js"><img src="https://img.icons8.com/color/60/000000/nodejs.png" alt="Node.js" class="rotate-icon"/></a>
+  <a href="#" title="React"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="React" class="rotate-icon"/></a>
 
 - **Tools**:
   <br/>
-  <a href="#" title="Git"><img src="https://img.icons8.com/ios-filled/60/000000/git.png" alt="Git" style="width: 60px; height: 60px;"/></a>
-  <a href="#" title="VS Code"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s" alt="VS Code" style="width: 60px; height: 60px;"/></a>
-  <a href="#" title="Notepad++"><img src="https://img.icons8.com/ios-filled/60/000000/notepad.png" alt="Notepad++" style="width: 60px; height: 60px;"/></a>
+  <a href="#" title="Git"><img src="https://img.icons8.com/ios-filled/60/000000/git.png" alt="Git" class="rotate-icon"/></a>
+  <a href="#" title="VS Code"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s" alt="VS Code" class="rotate-icon"/></a>
+  <a href="#" title="Notepad++"><img src="https://img.icons8.com/ios-filled/60/000000/notepad.png" alt="Notepad++" class="rotate-icon"/></a>
 
 - **Concepts**:
   <br/>
-  <a href="#" title="Cloud Computing"><img src="https://img.icons8.com/ios-filled/60/000000/cloud.png" alt="Cloud Computing" style="width: 60px; height: 60px;"/></a>
-  <a href="#" title="Data Structures and Algorithms"><img src="https://img.icons8.com/ios-filled/60/000000/data-configuration.png" alt="Data Structures and Algorithms" style="width: 60px; height: 60px;"/></a>
-  <a href="#" title="Machine Learning"><img src="https://img.icons8.com/ios-filled/60/000000/artificial-intelligence.png" alt="Machine Learning" style="width: 60px; height: 60px;"/></a>
+  <a href="#" title="Cloud Computing"><img src="https://img.icons8.com/ios-filled/60/000000/cloud.png" alt="Cloud Computing" class="rotate-icon"/></a>
+  <a href="#" title="Data Structures and Algorithms"><img src="https://img.icons8.com/ios-filled/60/000000/data-configuration.png" alt="Data Structures and Algorithms" class="rotate-icon"/></a>
+  <a href="#" title="Machine Learning"><img src="https://img.icons8.com/ios-filled/60/000000/artificial-intelligence.png" alt="Machine Learning" class="rotate-icon"/></a>
 
 </div>
+
+<style>
+  .rotate-icon {
+    animation: rotate 4s linear infinite;
+    transition: transform 0.2s;
+  }
+
+  @keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  .rotate-icon:hover {
+    transform: scale(1.1);
+  }
+</style>
+
 
 
 
