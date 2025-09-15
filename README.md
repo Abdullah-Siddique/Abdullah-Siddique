@@ -93,19 +93,19 @@ I’m always learning new technologies and enhancing my skills. Here are some of
 ### 🏆 Certificates
 
 1. **CS50X Introduction to Computer Science**
-   - ![CS50X](https://i.ibb.co/9c0Pp8z/CS50x.jpg)
+   - ![CS50X](https://certificates.cs50.io/1c0c5afd-649f-451a-bd12-caeb26ce738c.pdf?size=letter)
    
 
 2. **CS50 Introduction to Python**
-   - ![CS50P](https://i.ibb.co/BfMV76q/CS50P.png)
+   - ![CS50P](https://certificates.cs50.io/0c37eba0-0a8f-4392-8f92-fcb4812fae61.pdf?size=letter)
    
 
 3. **FreecodeCamp Responsive Web Design**
-   - ![Responsive Web Design](https://i.ibb.co/q9rvCbV/Responsive-Web-Design.png)
+   - ![Responsive Web Design](https://www.freecodecamp.org/certification/abdullah_siddique/responsive-web-design)
    
 
 4. **FreecodeCamp JavaScript Algorithms and Data Structures**
-   - ![JavaScript Algorithms and Data Structures](https://i.ibb.co/HN75bZC/Javascript-Algorithm.png)
+   - ![JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/abdullah_siddique/javascript-algorithms-and-data-structures-v8)
    
 
 5. **HackerRank Problem Solving (Basic)**
