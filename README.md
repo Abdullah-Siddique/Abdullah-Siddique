@@ -109,11 +109,11 @@ I’m always learning new technologies and enhancing my skills. Here are some of
    
 
 5. **HackerRank Problem Solving (Basic)**
-   - ![Problem Solving (Basic)](https://i.ibb.co/X8drdgq/456256585-378742858435185-5037122444859474653-n.png)
+   - ![Problem Solving (Basic)](https://www.hackerrank.com/certificates/iframe/5e8416f9558e)
    
 
 6. **HackerRank Python (Basic)**
-   - ![Python (Basic)](https://i.ibb.co/M1x7nYm/457645826-523531896717399-2730785214774458873-n.png)
+   - ![Python (Basic)](https://www.hackerrank.com/certificates/iframe/76c17fb247a5)
    
 <div align="center">
 <h1> 🌍 Connect With Me</h1>
