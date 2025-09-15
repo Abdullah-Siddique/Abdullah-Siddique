@@ -45,8 +45,10 @@ I'm a developer and competitive programmer with expertise in:
 </div>
 
 
-
 ## 🚀 Featured Projects
+
+### [**Codeforces problem's rating finder**](https://abdullah-siddique.github.io/CF_Rating/)
+Here you can know the rating of any problem in Codeforces. This is built by using Codeforces API.
 
 ### [**Virtual Graph**](https://abdullah-siddique.github.io/virtual-graph/)
 Virtual Graph is a web application designed to visualize and interact with graph structures. It allows users to create, modify, and explore graphs in a user-friendly environment. This project is built using React and provides an intuitive interface for managing graphs.
