@@ -92,28 +92,24 @@ I’m always learning new technologies and enhancing my skills. Here are some of
 
 ### 🏆 Certificates
 
-1. **CS50X Introduction to Computer Science**
-   - ![CS50X](https://certificates.cs50.io/1c0c5afd-649f-451a-bd12-caeb26ce738c.pdf?size=letter)
-   
+1. **CS50X Introduction to Computer Science**  
+   [![CS50X](https://certificates.cs50.io/1c0c5afd-649f-451a-bd12-caeb26ce738c.png)](https://certificates.cs50.io/1c0c5afd-649f-451a-bd12-caeb26ce738c.pdf?size=letter)
 
-2. **CS50 Introduction to Python**
-   - ![CS50P](https://certificates.cs50.io/0c37eba0-0a8f-4392-8f92-fcb4812fae61.pdf?size=letter)
-   
+2. **CS50 Introduction to Python**  
+   [![CS50P](https://certificates.cs50.io/0c37eba0-0a8f-4392-8f92-fcb4812fae61.png)](https://certificates.cs50.io/0c37eba0-0a8f-4392-8f92-fcb4812fae61.pdf?size=letter)
 
-3. **FreecodeCamp Responsive Web Design**
-   - ![Responsive Web Design](https://www.freecodecamp.org/certification/abdullah_siddique/responsive-web-design)
-   
+3. **FreecodeCamp Responsive Web Design**  
+   [![Responsive Web Design](https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg)](https://www.freecodecamp.org/certification/abdullah_siddique/responsive-web-design)
 
-4. **FreecodeCamp JavaScript Algorithms and Data Structures**
-   - ![JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/abdullah_siddique/javascript-algorithms-and-data-structures-v8)
-   
+4. **FreecodeCamp JavaScript Algorithms and Data Structures**  
+   [![JavaScript Algorithms and Data Structures](https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg)](https://www.freecodecamp.org/certification/abdullah_siddique/javascript-algorithms-and-data-structures-v8)
 
-5. **HackerRank Problem Solving (Basic)**
-   - ![Problem Solving (Basic)](https://www.hackerrank.com/certificates/iframe/5e8416f9558e)
-   
+5. **HackerRank Problem Solving (Basic)**  
+   [![Problem Solving (Basic)](https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45cb.svg)](https://www.hackerrank.com/certificates/iframe/5e8416f9558e)
 
-6. **HackerRank Python (Basic)**
-   - ![Python (Basic)](https://www.hackerrank.com/certificates/iframe/76c17fb247a5)
+6. **HackerRank Python (Basic)**  
+   [![Python (Basic)](https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45cb.svg)](https://www.hackerrank.com/certificates/iframe/76c17fb247a5)
+
    
 <div align="center">
 <h1> 🌍 Connect With Me</h1>
