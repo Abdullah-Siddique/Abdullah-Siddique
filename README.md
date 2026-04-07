@@ -47,6 +47,9 @@ I'm a developer and competitive programmer with expertise in:
 
 ## 🚀 Featured Projects
 
+### [**Codeforces problem checker**](https://abdullah-siddique.github.io/CF_Checker/)
+Check if a Codeforces problem is solved by entering your handle and problem code (like 33A). Shows Accepted, Not Attempted, or the latest submission verdict using the Codeforces API.
+
 ### [**Codeforces problem's rating finder**](https://abdullah-siddique.github.io/CF_Rating/)
 Here you can know the rating of any problem in Codeforces. This is built by using Codeforces API.
 
